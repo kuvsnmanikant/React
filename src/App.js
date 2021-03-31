@@ -9,13 +9,14 @@ import Q7 from './components/Question7';
 function App() {
   return (
     <div className="App">
-      {/* <Q2/> 
+      {/* 
       <Q3/>
       <Q4/>
       <Q5/>
       <Q6/>
-      */}
       <Q7/>
+      */}
+      <Q2/>
     </div>
   );
 }
